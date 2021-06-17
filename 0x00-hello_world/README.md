@@ -1,1 +1,2 @@
 This project is the first C project as part of the Alx Software Engineering Program, and covers the very basics of compilation and C programming
+script that runs a C file through the preprocessor and save the result into another file.
