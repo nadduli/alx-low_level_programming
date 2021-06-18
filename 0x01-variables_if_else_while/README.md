@@ -9,3 +9,4 @@ File 7-prints the lowercase alphabet in reverse, followed by a new line.
 File 8-prints all the numbers of base 16 in lowercase, followed by a new line.
 File 9-prints all possible combinations of single-digit numbers.
 File 10-prints all possible different combinations of two digits.
+File 101-print_comb4.c is a program that prints all possible different combinations of three digits.
