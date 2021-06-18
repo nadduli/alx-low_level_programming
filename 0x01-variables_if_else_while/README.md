@@ -7,3 +7,4 @@ File 5-print_numbers.c is a C program that prints all single digit numbers of ba
 File 6-prints all single digit numbers of base 10 starting from 0, followed by a new line.
 File 7-prints the lowercase alphabet in reverse, followed by a new line.
 File 8-prints all the numbers of base 16 in lowercase, followed by a new line.
+File 9-prints all possible combinations of single-digit numbers.
