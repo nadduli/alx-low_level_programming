@@ -10,5 +10,6 @@ File 8-24_hours.c is a function that prints every minute of the day of Jack Baue
 File 9-function that prints the 9 times table, starting with 0.  
 File 10-add.c is a function that adds two integers and returns the result.  
 File 11-print_to_98.c is a function that prints all natural numbers from n to 98, followed by a new line.  
-File 100-times_table.c is a function that prints the n times table, starting with 0.
-File 101-natural.c is a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.  
+File 100-times_table.c is a function that prints the n times table, starting with 0.  
+File 101-natural.c is a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+File 103-fibonacci.c is a program that finds and prints the sum of the even-valued terms of the Fibonacci suite under 4000000, followed by a new line.
