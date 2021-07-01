@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  * main - main - prints a[2] = 98
+  * main - prints a[2] = 98
   * Return: Always 0 (Success)
  */
 int main(void)
