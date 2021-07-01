@@ -1,6 +1,8 @@
 #include <stdio.h>
-/* main function initilization */
-
+/**
+  * main - main - prints a[2] = 98
+  * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int n;
