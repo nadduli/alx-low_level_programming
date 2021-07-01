@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-  * main - prints a[2] = 98
-  * Return: Always 0 (Success)
+ * main - print a magic number
+ * Return: 0 on success
  */
 int main(void)
 {
