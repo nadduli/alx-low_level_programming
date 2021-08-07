@@ -1,3 +1,5 @@
+# The Project on 0x04. C - More functions, more nested loops
+
 File 0-isupper.c is a function that checks for uppercase character.  
 File 1-isdigit.c is a function that checks for a digit (0 through 9).  
 File 2-mul.c is a function that multiplies two integers.  
@@ -13,4 +15,3 @@ File 100-prime_factor.c is a program that finds and prints the largest prime fac
 File 101-print_number.c is a function that prints an integer using only _putchar()  
 File holberton.h is the header file containing all the function prototypes used in this project.  
 File _putchar.c contains the _putchar() function definition.
-
